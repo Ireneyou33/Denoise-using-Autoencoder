@@ -1,8 +1,8 @@
 # Denoise-using-Autoencoder
 
 ## Removing noise from MNIST Dataset
-Basic Autoencoder
-Autoencoders with different number of nodes
+<br> Basic Autoencoder
+<br> Autoencoders with different number of nodes
 Denoising autoencoders
 Basic Denoise Autoencoder
 Deep Convolutional Denoising Autoencoder
