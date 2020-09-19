@@ -1,4 +1,4 @@
-# Denoise-using-Autoencoder
+# Denoise_using_Autoencoder
 
 ## Removing noise from MNIST Dataset
 <br> Basic Autoencoder
